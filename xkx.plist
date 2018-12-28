@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://132.232.124.104:8080/AppDownload/ios/Unity-iPhone.ipa</string>
+                   <string>http://132.232.124.104:8080/AppDownload/ios/xkx_dev.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -25,15 +25,15 @@
            <key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.Ice.Demo</string>
+               <string>com.jp.xkx.dev</string>
                <key>bundle-version</key>
                <string>1.0</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>Demo</string>
+               <string>侠客风云</string>
                <key>title</key>
-               <string>Demo</string>
+               <string>侠客风云</string>
            </dict>
        </dict>
    </array>
